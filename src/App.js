@@ -3,6 +3,7 @@ import { BsPersonPlus } from "react-icons/bs";
 import { GrMoney } from "react-icons/gr";
 import { BiMoneyWithdraw } from "react-icons/bi";
 import { useState } from "react";
+// Added build for hosting
 
 const initialFriends = [
   {
